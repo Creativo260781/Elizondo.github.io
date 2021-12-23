@@ -157,7 +157,6 @@ aside .inverso::after {
 }
 .nav-link:hover {
     color: #f46669;
-    transform: translateY(2em);
 }
 .nav-link.active {
     color: #f46669;
@@ -186,6 +185,8 @@ aside .inverso::after {
 }
 .contacto-bg {
     background-image: url(../img/Atencion-cliente.jpg);
+    background-size: cover;
+    background-position: center;
     border-radius: 20px;
 }
 /** Nosotros **/

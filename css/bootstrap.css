@@ -428,7 +428,6 @@ hr {
 .img-fluid:hover {
     max-width: 100%;
     height: auto;
-    /*transform: rotate(45deg);/*rota 360 grados el elmento*/*/
     cursor: pointer;
 }
 .img-fluid__logo {
@@ -439,7 +438,6 @@ hr {
 .img-fluid__logo:hover {
     max-width: 100%;
     height: auto;
-    transform: scale(1.5, 0.9);/*rota 360 grados el elmento*/
     cursor: pointer;
 }
 
@@ -622,7 +620,7 @@ pre code {
 .col-6 {
     -ms-flex: 0 0 50%;
     flex: 0 0 50%;
-    max-width: 50%
+    max-width: 50%;
     align-items: center;
     justify-items: center;
 }
