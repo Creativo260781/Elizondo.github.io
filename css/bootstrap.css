@@ -4425,7 +4425,6 @@ input[type=button].btn-block,input[type=reset].btn-block,input[type=submit].btn-
     transition: 0.5s;
 }
 .card-img-top:hover{
-    transform: rotate(45deg);/*rota 360 grados el elmento*/
     cursor: pointer;
 }
 
